@@ -4,7 +4,7 @@ Este repositório contém um projeto completo de análise de dados que utiliza a
 
 O projeto foi desenvolvido inteiramente em um notebook do Google Colab e é estruturado de forma didática para guiar o usuário desde a limpeza dos dados até a execução de consultas SQL avançadas.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/NOME_DO_SEU_NOTEBOOK.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yakwsz/analise-netflix-sql-python/blob/main/DominandoSQL.ipynb)
 
 ---
 
